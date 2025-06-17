@@ -1,1 +1,23 @@
-# rramadugu.github.io
+
+<img src="https://github.com/rramadugu/rramadugu/blob/master/ramadugu-header.png" width="105%" height="auto">
+
+
+  
+<div align='center'>
+
+<h3 align="center">🥈 About Me</h3>
+<div align='center'>
+🌟 Payments Expert 🚀
+
+> **🛠️ Leading Payment Solutions!**  
+> A `🏦 Finastra` SME, specializes in `💸 Global PAYplus (GPP)`.  
+> As a `📜 Certified ScrumMaster®`, `🔄 GPP Configuration` and `🤝 Collaboration`.  
+
+💳 **Mastering Fintech:**  
+🌐 Expert in `📨 SWIFT`, `🌍 ISO20022`, `💹 FX`, `🏦 FED`, and `📜 NACHA`, delivering seamless payment integrations.  
+
+✨ **Driving Innovation:**  
+ **technical expertise** with **strategic vision**, powering fintech success! AI Enthusiast 🚀
+</div>
+<hr>
+
