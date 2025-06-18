@@ -35,4 +35,8 @@ Fundtech : Implementation and SME (Payments) for Global PAYPlus (GPP-SP).
 Nihilent Technologies.
  
 
+# Publications
 
+# Talks & Lectures
+
+# Volunteer Work
